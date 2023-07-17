@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-06-15T14:17:22.766Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-06-15T14:17:20.766Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-06-15T17:16:20.766Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-06-19T14:00:11.967Z",
+      "id": 4
+    },
+    {
+      "description": "Jogo",
+      "price": 260,
+      "category": "Diversão",
+      "type": "outcome",
+      "createdAt": "2023-06-19T14:24:17.716Z",
+      "id": 5
+    },
+    {
+      "description": "Uber",
+      "price": 40,
+      "category": "Transporte",
+      "type": "outcome",
+      "createdAt": "2023-06-19T14:24:44.748Z",
+      "id": 6
+    },
+    {
+      "description": "Curso",
+      "price": 3000,
+      "category": "Estudos",
+      "type": "outcome",
+      "createdAt": "2023-06-19T14:25:17.487Z",
+      "id": 7
+    }
+  ]
+}
